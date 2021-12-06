@@ -4,7 +4,7 @@ In  this  work,  we  focus  on  the  joint  identification and  integration  of 
 
 ### You may need to change the paths on the notebooks !
 
-Associated paper : https://github.com/ThomasAussagues/RINN/blob/main/article.pdf (download it from github)
+Associated paper : https://github.com/ThomasAussagues/RINN/blob/81942e100409258b889b380510923c173c012d6f/article.pdf (download it from github)
 
 License: CECILL-C license Copyright IMT Atlantique/OceaniX,
 
