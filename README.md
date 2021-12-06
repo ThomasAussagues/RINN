@@ -5,6 +5,7 @@ In  this  work,  we  focus  on  the  joint  identification and  integration  of 
 ### You may need to change the paths on the notebooks !
 
 Associated paper : https://cloud.imt-atlantique.fr/index.php/s/tfdX9b9kJbdqGjJ
+https://github.com/ThomasAussagues/RINN/blob/main/article.pdf
 
 License: CECILL-C license Copyright IMT Atlantique/OceaniX,
 
